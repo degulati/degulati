@@ -4,7 +4,7 @@ I'm a recent graduate from UC San Diego (Class of 2021), where I studied MechE &
 
 ### 🔭 I’m currently working on
 
-I'm interning at the Mechanical Systems Control Lab @ UC Berkeley, where I'm conducting research on motion planning in autonomous driving over the summer. I'm also part of TritonAI @ UCSD and am working on programming a 1/10-scale RC car that drives autonomously for the upcoming [DIY Robocars competition](https://www.meetup.com/DIYRobocars/events/278392566/) in August in Oakland, CA.
+I'm interning at the Mechanical Systems Control Lab @ UC Berkeley, where I'm conducting research on a motion planning algorithm in autonomous driving over the summer. I'm also part of TritonAI @ UCSD and am working on programming a 1/10-scale RC car that drives autonomously for the upcoming [DIY Robocars competition](https://www.meetup.com/DIYRobocars/events/278392566/) in August in Oakland, CA.
 
 ### ⚡ Fun facts
 
