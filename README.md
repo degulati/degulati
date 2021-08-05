@@ -1,6 +1,6 @@
 ### Hi, I'm Dev 👋
 
-I'm a recent graduate from UC San Diego (Class of 2021), where I studied MechE & CS with a focus in robotics. I'm currently looking for internship/full-time opportunities as a software engineer! Feel free to get in touch at degulati@ucsd.edu.
+I'm a recent graduate from UC San Diego (Class of 2021), where I studied MechE & CS with a focus in robotics. I'm currently looking for internship/full-time opportunities as a software engineer! Feel free to reach me at degulati@ucsd.edu.
 
 ### 🔭 I’m currently working on
 
