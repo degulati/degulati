@@ -1,10 +1,12 @@
 ### Hi, I'm Dev 👋
 
-I'm a Master's student at UC San Diego and also completed my Bachelor's at UCSD, where I studied MechE & CS with a focus in robotics. I'm currently looking for internship opportunities in software engineering and data science. Feel free to reach me at degulati@ucsd.edu.
+I'm a Master's student at UC San Diego and also completed my Bachelor's at UCSD, where I studied MechE & CS. I'm currently looking for internship opportunities in software engineering and data science. Feel free to reach me at degulati@ucsd.edu.
 
 ### 🔭 I’m currently working on
 
-I'm interning at the [Mechanical Systems Control Lab @ UC Berkeley](https://msc.berkeley.edu/), where I'm conducting research on a motion planning algorithm for autonomous driving over the summer. I'm also part of [TritonAI @ UCSD](https://tritonai.org/) and am working on programming a 1/10-scale RC car that drives autonomously for the upcoming [DIY Robocars competition](https://www.meetup.com/DIYRobocars/events/278392566/) in August in Oakland, CA.
+I recently started my MS program at UCSD! This fall, I'm taking coursework in Computer science including the Design & Analysis of Algorithms (CSE 202), AI: Probabilistic Reasoning and Learning (CSE 250A), and Recommender Systems & Web Mining (CSE 258). 
+
+At UCSD, I'm also a part of Triton AI [https://tritonai.org/], where I've worked on exploring and deploying the full autonomous driving stack on a 1/10-scale RC car for the DIY Robocars [https://diyrobocars.com/] Race that takes place every few months in Oakland, CA. 
 
 ### ⚡ Fun facts
 
