@@ -1,6 +1,6 @@
 ### Hi, I'm Dev 👋
 
-I'm a Master's student at UC San Diego and also completed my Bachelor's at UCSD, where I studied MechE & CS with a focus in robotics. I'm currently looking for internship opportunities. Feel free to reach me at degulati@ucsd.edu.
+I'm a Master's student at UC San Diego and also completed my Bachelor's at UCSD, where I studied MechE & CS with a focus in robotics. I'm currently looking for internship opportunities in software engineering and data science. Feel free to reach me at degulati@ucsd.edu.
 
 ### 🔭 I’m currently working on
 
